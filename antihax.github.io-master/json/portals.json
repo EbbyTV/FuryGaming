@@ -1,0 +1,58 @@
+[
+	{
+		"Nodes": [
+			{
+				"PortalName": "PVE_TO_PVP1",
+				"RequiredResource": {
+					"/Game/Mods/FGStructures/PVPToken/PrimalItemResource_PVP.PrimalItemResource_PVP": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 6182684,
+				"worldY": 9688997
+			},
+			{
+				"PortalName": "PVE_TO_PVP2",
+				"RequiredResource": {
+					"/Game/Mods/FGStructures/PVPToken/PrimalItemResource_PVP.PrimalItemResource_PVP": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 6176902,
+				"worldY": 9957964
+			}
+		],
+		"PathId": 1,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "PVP_TO_PVE2",
+				"RequiredResource": {
+					"/Game/Mods/FGStructures/PVPToken/PrimalItemResource_PVP.PrimalItemResource_PVP": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 6427901.5,
+				"worldY": 9953055
+			},
+			{
+				"PortalName": "PVP_TO_PVE1",
+				"RequiredResource": {
+					"/Game/Mods/FGStructures/PVPToken/PrimalItemResource_PVP.PrimalItemResource_PVP": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 6421158.5,
+				"worldY": 9683805
+			}
+		],
+		"PathId": 2,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	}
+]
